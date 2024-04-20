@@ -1,4 +1,5 @@
-#  EX : 2a_Stop_and_Wait_Protocol
+#  EX:2a Stop and Wait Protocol
+## DATE:27.02.2024
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
